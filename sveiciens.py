@@ -1,1 +1,1 @@
-print("Man gribas ēst")
+print("Sveiki BUSSSIN makaroniņi")
