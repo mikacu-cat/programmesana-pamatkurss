@@ -1,5 +1,5 @@
 # Programmēšana - pamatkurss
-Autors: **Amanda Delvere**
+**Autors: Amanda Delvere**
 ## Palaišana
 ## Ergonomika
 -
